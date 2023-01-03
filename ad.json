@@ -2,7 +2,7 @@
   "android": {
   "nativeAdPlacementId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "interstitialAdPlacementId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "bannerAdPlacementId":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "bannerAdPlacementId":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
   "rewarededVideoAdPlacementId":"VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   
